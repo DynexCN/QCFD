@@ -5,7 +5,7 @@
 - [视频](https://github.com/dynexcoin/QCFD/raw/main/IMG_7574.MP4)
 - [案例](https://github.com/dynexcoin/QCFD/blob/main/QCFD_Examples.ipynb)
 
-![图片](https://github.com/DynexCN/blob/main/imgs/4.png)
+![图片](https://github.com/DynexCN/QCFD/blob/main/imgs/4.png)
 
 该存储库提供了一个Python类，用于将通常用于在量子计算机上解决线性系统的Harrow-Hassidim-Lloyd（HHL）算法转换为在DYNEX神经形态网络上计算的二次无约束二值优化（QUBO）模型，称为”QCFD”。该适应允许使用经典和量子启发求解器（即模拟退火采样器）和DYNEX网络用户寻找解决方案。
 
